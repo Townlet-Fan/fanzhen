@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2317EA4D209150B84D55BE63AFBF4B9135A69884",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "12123c04-b191-4ede-9a3c-df1fa3a72484++9420" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2317EA4D209150B84D55BE63AFBF4B9135A69884" : 0,
+    "12123c04-b191-4ede-9a3c-df1fa3a72484++9420" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "368F6D55-275D-4FD9-9C13-8C56B35B243E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2317EA4D209150B84D55BE63AFBF4B9135A69884" : "%E8%B7%AC%E6%AD%A5%E5%A4%87%E4%BB%BD\/",
+    "12123c04-b191-4ede-9a3c-df1fa3a72484++9420" : "SVN\/WhatsPlay\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UIScroll1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UIScroll1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/121.41.128.171\/gameios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "12123c04-b191-4ede-9a3c-df1fa3a72484++9420"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/LingZhiKuiBuGoGo\/kuibu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2317EA4D209150B84D55BE63AFBF4B9135A69884"
+    }
+  ]
+}

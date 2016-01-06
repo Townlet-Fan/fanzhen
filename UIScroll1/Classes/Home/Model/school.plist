@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>F</key>
+	<array>
+		<string>复旦大学</string>
+	</array>
+	<key>H</key>
+	<array>
+		<string>华东师范大学</string>
+		<string>华东理工大学</string>
+	</array>
+	<key>S</key>
+	<array>
+		<string>上海财经大学</string>
+		<string>上海大学</string>
+		<string>上海第二工业大学</string>
+		<string>上海电机学院</string>
+		<string>上海电力学院</string>
+		<string>上海对外贸易学院</string>
+		<string>上海海关学院</string>
+		<string>上海海事大学</string>
+		<string>上海海洋学院</string>
+		<string>上海交通大学</string>
+		<string>上海农林职业技术学院</string>
+		<string>上海师范大学</string>
+		<string>上海市高级技工学院</string>
+		<string>上海思博职业技术学院</string>
+		<string>上海新侨职业技术学院</string>
+		<string>上海震旦职业大学</string>
+		<string>上海中医药大学</string>
+	</array>
+	<key>T</key>
+	<array>
+		<string>同济大学</string>
+	</array>
+</dict>
+</plist>
